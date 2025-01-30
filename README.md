@@ -28,7 +28,7 @@ This project is an interactive web application that allows users to visualize an
 
 
 
-3️⃣ Stock Price Prediction: Comparing Predictions vs. Actual Prices
+# 3️⃣ Stock Price Prediction: Comparing Predictions vs. Actual Prices
 
 - Data from the last 100 days is used to make predictions.
 
