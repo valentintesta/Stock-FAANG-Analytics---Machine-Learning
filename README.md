@@ -9,7 +9,7 @@ This project is an interactive web application that allows users to visualize an
 # 2️⃣ Data Visualization
 
 - The latest rows of stock data are displayed.
-  ![Uploading image.png…]()
+![Screenshot 2025-01-30 115017](https://github.com/user-attachments/assets/4c5a5fe0-baee-40aa-931e-723bb73558d9)
 
 - Different closing price charts are generated:
 
