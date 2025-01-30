@@ -25,3 +25,17 @@ This project is an interactive web application that allows users to visualize an
 ## Closing price: 100-day and 200-day moving averages (MA100 & MA200)
 
 ![Screenshot 2025-01-30 115731](https://github.com/user-attachments/assets/4568a23c-4357-4007-ad03-1b136d0dae77)
+
+
+
+3️⃣ Stock Price Prediction: Comparing Predictions vs. Actual Prices
+
+- Data from the last 100 days is used to make predictions.
+
+- Test data is formatted into input sequences for the neural network.
+
+- Predictions are generated and inverse-transformed to match the original scale.
+
+- A comparison graph is created to visualize actual stock prices vs. predicted prices.
+
+![Screenshot 2025-01-30 120350](https://github.com/user-attachments/assets/c62b337f-f233-4d02-a634-3f3ea858daf4)
