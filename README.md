@@ -8,13 +8,20 @@ This project is an interactive web application that allows users to visualize an
 
 # 2️⃣ Data Visualization
 
-- The latest rows of stock data are displayed.
+## The latest rows of stock data are displayed
+
+![raw data](https://github.com/user-attachments/assets/a380c59c-268f-4732-9dbd-c3b11d171a1a)
+
+## Closing price charts
+
+
 ![Screenshot 2025-01-30 115017](https://github.com/user-attachments/assets/4c5a5fe0-baee-40aa-931e-723bb73558d9)
 
-- Different closing price charts are generated:
 
+## Closing price: 100-day moving average (MA100)
 
-## 1) Basic closing price chart.
+![Screenshot 2025-01-30 115648](https://github.com/user-attachments/assets/114c8566-b665-44e5-9fb4-4314b5ea93d4)
 
-Closing price with a 100-day moving average (MA100)
-Closing price with 100-day and 200-day moving averages (MA100 & MA200)
+## Closing price: 100-day and 200-day moving averages (MA100 & MA200)
+
+![Screenshot 2025-01-30 115731](https://github.com/user-attachments/assets/4568a23c-4357-4007-ad03-1b136d0dae77)
